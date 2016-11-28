@@ -1,0 +1,7 @@
+#Sun Nov 27 22:43:34 PST 2016
+base.0=/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d853d9b3014ae8be5255de63fd00363c71ed8bc8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_568420f1a0bda18a8c54fa0983dbac94598cdd01/classes.dex
+base.1=/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_568420f1a0bda18a8c54fa0983dbac94598cdd01
+file.0=/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d853d9b3014ae8be5255de63fd00363c71ed8bc8/classes.dex

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="59495081355486"
+    token="2552792099586824266"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="589" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="263" />
+    <task
+        name="verifier"
+        duration="26" />
+
+    <artifact
+        location="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="59495081355486"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_4a5f2deabe7dc973a6eb23ece1c41dc04c32f106/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_b101b5de1616d392f27b764484ba2d3f19f7eab2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c01cfbd4ef5fd6106d1b864f7606ed3069bba973/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_4fcfd37c0b8d38a4ca2491e67f32cad002092944/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_6cb4dc4781eef2acc1dcf177a11fd85d3a44a580/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_f3f4a070e4014850164d452d8f49e94295832db3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_6041eeb3d611303a003d232f335abcc1d739e078/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_6810d60a19401e129e0be9fa21449dcc81fc81ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_f84014feec1816ed83ef4a2e8f9add0bc8b86e55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_57f38d32c552924d549e546871ae88697a157816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_50437804e94b6780bb5b4a5ade3e7a615a8d171c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_b5dea5f13edc73a602b49042ddc1bc68dd8a8546/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_0911008a1500e6150fcda1fb9d43a89a1a7a405c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_168be19178c8b604b0cc5f892aba40777c0ebc43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_6e17b2d5b178700e8c87fe868193b4ccbc177061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_f5c59e1b8836f21a81cd284844bacb3adad1958a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_f2481beb57b95671ecaa56e6b7a1ebfc2f7d8c9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_d3f0b56b90e5af88533729f7ad0395ac72ac330f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_5d4b9f96eb372f2c7e0ef172e78272fbfa1550f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_db3ab898cee9968e727a18115d71ba76922c72cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_2fac1864a1f40a567645bbbcde0e29a565fd6ac3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_2d029f2adf5bee5776860ef54ed5681179f4fff8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_786a7ed10d734f3c290d1d0a7d3ac88b535ac2bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_a42bd63daeb835f0c69a0ff8ebd93996e754acfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_69eb88c7d8cf06754cdb7eae6f6b3f47db26d997/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1dce3b50ebc163d3e14ddc15f165097b129f4f7">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d853d9b3014ae8be5255de63fd00363c71ed8bc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_1e2963cb610159308a41c07812dcc5ba2eee368f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_47b3ed13987e93c01a3ac1c0096ce775646aa928/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_1b6f50d7396338fde95d5532431b7927c814003a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_a61be3e7407e424f499f13799a0dbdb337814b3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_c9d77bc2969d885955c83caf7dadf3168d3f79b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_7b90041ecf8c1429627a034c5da7c505f5c1ec95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_b4bd53b4727863b7e6829c8c165b41af6e949c3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_76d5b921bbdc0e71232c45a90b11fc0a7ae57537/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_4d7038ccf5cb15dfce8f52d830ee5e5f190ab7e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_ef876f3d5cfee5ba791eefed9d5155d81a128db6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_b62a4020957facbd0759b14cd23d7f755bc1eb7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_41d071ed4c1b611fb2d3858cca757cb959058d52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_61b2067eaf82e78d38713a66b28270165540221a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_bfec730f84429df67298cd8a693377250eb033b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_9edf894e17ef82c5f1cdf0e36ef781936e8306ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_22fc82476930089f74561c73d22e48908c4f1945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_98d981d7cf33b76b0835eb6955316aab30530784/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9cd4bb0ea1e6d959c7f00f41adebf6640d4d61c2">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_568420f1a0bda18a8c54fa0983dbac94598cdd01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_70f27e235a257e28fa64cf9a812328224d3710f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_d098796a729e030e4421c5191af4dc7a9b13ae14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_2a036dd674a93a81aec0a6298d994f939abb583a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_83ec0e707a69fa878e53a85a16ee051dc93aa570/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_fa2dc3ab6df3143ac0b058c71ba1ad43f53c3a2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_e28ac7d4791f79948285264542d76267783ebc71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_da04e5886e60e6d07c0b13397e699c6063013c0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_166214750f88b7e0d26864b7fb5600fe203412db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_c049bb868a12be5c46a8928d2e89fdef6f09b623/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_2db5e5cdae15f92ddcb54094cc56eb742df4f354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/multidex/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.0_16dcaa5c16751d6c0d43e024c7e6e842a6d38ee8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_ba8a32806c8c1c87418d92c1bd7651db34940f1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_e276f2d60c59fec41a0d99c5da4d6151949357ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_f4f92fe9224c2f28dc646802c1984a296ce588b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_9222a11d78e37c1f0141f147016a9b0cfeff1b4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_fcac7e8af37fba6cef3da06c83a1edde50a995f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/georgeszeto/Desktop/ManC/AndroidPrograms/SnapShare/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_1c34e1466fa082f23f10fef7f54fae5023fbb110/classes.dex" />
+    </item>
+
+</items>
